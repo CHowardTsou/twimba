@@ -6,7 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
-or check it from website https://app.netlify.com/sites/frolicking-croissant-3eab21/overview
+or check it from website https://frolicking-croissant-3eab21.netlify.app/
 
 Basic function:
 
