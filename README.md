@@ -10,17 +10,17 @@ or check it from website https://app.netlify.com/sites/frolicking-croissant-3eab
 
 Basic function:
 
--Tweet a new tweet
--Render updated tweetData
--color changing when clicking like and retweet icon
--Click and show replies
+- Tweet a new tweet
+- Render updated tweetData
+- color changing when clicking like and retweet icon
+- Click and show replies
 
 Update function (Stretch goals)
 
--Add the ability to reply to a specific tweet
--Save tweets, likes and retweets to localStorage
--Delete tweets, only can delete tweets by yourself
--Darkmode
+- Add the ability to reply to a specific tweet
+- Save tweets, likes and retweets to localStorage
+- Delete tweets, only can delete tweets by yourself
+- Darkmode
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
